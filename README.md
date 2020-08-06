@@ -1,4 +1,4 @@
-[![Header](/me.gif)](https://www.youtube.com/watch?v=M0m3kMPEE_c)
+[![Header](https://raw.githubusercontent.com/skenderl/skenderl/master/me.gif)](https://www.youtube.com/watch?v=M0m3kMPEE_c)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soloduocontact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0070ac?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skenderl/)
