@@ -10,6 +10,7 @@
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skenderl)
 [![DeviantArt](https://img.shields.io/badge/-DeviantArt-0fcc47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/gangidoo)
 [![Trakt](https://img.shields.io/badge/-Trakt-ed1c24?style=for-the-badge&logo=trakt&logoColor=white)](https://trakt.tv/users/angryguy)
+<img src="https://soloduo-invisible-counter.fly.dev/transp.png?id=skenderl" alt="" style="display: none"/>
 
 ### Hi there 👋, I'm Skender
 
