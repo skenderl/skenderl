@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soloduocontact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0070ac?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skenderl/)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gangidoo)
-[![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/bwlhaictke)
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/gangidoo)
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7xs1s7d10l7gisbl9n6hltql9)
 [![Twitch](https://img.shields.io/badge/-Twitch-9147ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gangidoo)
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skenderl)
