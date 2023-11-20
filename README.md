@@ -13,9 +13,8 @@
 
 ### Hi there 👋, I'm Skender
 
-- Recent software engineer graduate  🎓
-- Rocket League 🏎️ [noob](https://rocketleague.tracker.network/profile/steam/76561198062317837)
-- I make [Apps](https://play.google.com/store/apps/dev?id=5722813978071911216)  📱
+- A noob gamer [Rocket League](https://rocketleague.tracker.network/profile/steam/76561198062317837), [Overwatch](https://tracker.gg/overwatch/profile/battlenet/GanGiDoo%232954/overview)
+- I make [Apps](https://play.google.com/store/apps/dev?id=5722813978071911216)
 
 **Languages I'm familiar with:**
 
